@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahmedhossam
-- 👀 I’m interested in problem solving
+- 👀 I’m interested in problem solving & Competitve programming
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on internship
 - 📫 How to reach me 
