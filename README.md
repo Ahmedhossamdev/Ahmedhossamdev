@@ -10,4 +10,6 @@
 
 🏆 I've participated in competitive programming with 2x ECPC and one ACPC (Arab Collegiate Programming Contest).
 
+📚 Currently, I'm reading Designing Data-Intensive Applications (DDIA) and Database Internals..
+
 📫 Feel free to connect with me on LinkedIn: [Ahmed Hossam](https://www.linkedin.com/in/ahmedhossamdev/)
