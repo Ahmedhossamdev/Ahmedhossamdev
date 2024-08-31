@@ -4,7 +4,7 @@
 
 🌍 I love open source and am currently a Google Summer of Code contributor for 2024 with OTSF.
 
-🌱 I've explored the backend development world using Node.js and NestJS, which I find fascinating. I'm also learning Ruby and Go to broaden my skills. ❤️
+🌱 I'm exploring various backend technologies, including Node.js, Ruby, and Go, to broaden my skills and knowledge. ❤️
 
 💼 I'm actively seeking internship opportunities to further enhance my skills and gain valuable experience.
 
