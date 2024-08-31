@@ -1,6 +1,6 @@
 👋 Hello, I'm Ahmed Hossam, a junior SWE graduate with a year of hands-on experience.
 
-👀 I'm passionate about backend system design, distributed systems and databases, and building highly scalable and performant applications. I also deeply care about user experience and performance!
+👀 I'm passionate about backend, system design, distributed systems and databases, and building highly scalable and performant applications. I also deeply care about user experience and performance!
 
 🌍 I love open source and am currently a Google Summer of Code contributor for 2024 with OTSF.
 
