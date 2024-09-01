@@ -8,7 +8,7 @@
 
 💼 I'm actively seeking internship opportunities to further enhance my skills and gain valuable experience.
 
-🏆 I've participated in competitive programming with 2x ECPC and one ACPC (Arab Collegiate Programming Contest).
+🏆 Passionate about solving problems with experience in 1x ACPC and 2x ECPC (Arab Collegiate Programming Contest).
 
 📚 Currently, I'm reading Designing Data-Intensive Applications (DDIA) and Database Internals..
 
