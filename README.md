@@ -6,8 +6,6 @@
 
 🌱 I'm exploring various backend technologies, including Node.js, Ruby, and Go, to broaden my skills and knowledge. ❤️
 
-💼 I'm actively seeking internship opportunities to further enhance my skills and gain valuable experience.
-
 🏆 Passionate about solving problems and qualified for 1x ACPC and 2x ECPC (Arab Collegiate Programming Contest).
 
 📚 Currently, I'm reading Designing Data-Intensive Applications (DDIA) and Database Internals..
