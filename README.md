@@ -2,9 +2,11 @@
 
 💻 I'm a Software Engineer who enjoys building backend systems and learning how things work under the hood.
 
-🚍 These days I'm working full-time at OneBusAway, building open source software for public transit.
+🚍 I'm currently working full-time at OneBusAway, building open source software for public transit.
 
-🤓 I'm mainly interested in backend engineering, distributed systems, databases, database internals, and everything related to building scalable systems. Recently I've also been spending a lot of time learning about public transportation systems and routing algorithms.
+🤓 I'm mainly interested in backend engineering, distributed systems, databases, database internals, and public transportation systems. Recently I've been spending a lot of time learning about routing algorithms and transit infrastructure.
+
+🌍 I love open source. I was a Google Summer of Code Contributor in 2024 and I'm mentoring GSoC students in 2026.
 
 🌱 I like exploring new technologies and languages, especially Go, Node.js, and Ruby.
 
@@ -16,6 +18,6 @@
 * Operating Systems: Three Easy Pieces
 * Concurrency in Go
 
-♟️ When I'm not coding, you'll probably find me playing chess or contributing to open source.
+♟️ Outside of coding, you'll probably find me playing chess or contributing to open source.
 
-📫 Feel free to connect with me on LinkedIn: Ahmed Hossam
+📫 Connect with me on LinkedIn: https://www.linkedin.com/in/ahmedhossamdev/
