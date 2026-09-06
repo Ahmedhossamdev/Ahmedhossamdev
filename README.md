@@ -6,6 +6,8 @@ I mostly work on backend systems, APIs, open source, and Go. I like understandin
 
 I was a Google Summer of Code contributor with OneBusAway in 2024 and a GSoC mentor in 2026.
 
+Before that, I spent a lot of time in competitive programming and competed in ECPC and ACPC.
+
 ## Interested in
 
 Backend systems, distributed systems, databases, database internals, routing, public transportation systems, and open source.
