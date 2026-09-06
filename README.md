@@ -21,3 +21,5 @@
 ♟️ Outside of coding, you'll probably find me playing chess or contributing to open source.
 
 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/ahmedhossamdev/
+
+Or just: ahmedhossamdev1@gmail.com
